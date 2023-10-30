@@ -1,5 +1,4 @@
 # To_Do_List
-Project Title: To-Do List App
 
 Description:
 The To-Do List App is a web-based application designed to help users manage their tasks and stay organized. Built using fundamental web technologies, including HTML, CSS, and JavaScript, this app provides a user-friendly interface for creating, tracking, and deleting tasks.
